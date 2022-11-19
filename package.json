@@ -1,6 +1,7 @@
 {
   "name": "pf-template",
   "version": "0.1.0",
+  "homepage": "https://HugCls.github.io/react-template-sass",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
@@ -23,6 +24,8 @@
     "websocket": "^1.0.34"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
