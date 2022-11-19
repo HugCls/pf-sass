@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pf-sass/static/css/main.5b7df1d1.css",
+    "main.js": "/pf-sass/static/js/main.e35b8a90.js",
+    "static/media/OpenSans-Regular.ttf": "/pf-sass/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/Lato-Regular.ttf": "/pf-sass/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "index.html": "/pf-sass/index.html",
+    "main.5b7df1d1.css.map": "/pf-sass/static/css/main.5b7df1d1.css.map",
+    "main.e35b8a90.js.map": "/pf-sass/static/js/main.e35b8a90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7df1d1.css",
+    "static/js/main.e35b8a90.js"
+  ]
+}
