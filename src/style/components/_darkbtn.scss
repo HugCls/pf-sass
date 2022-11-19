@@ -1,0 +1,19 @@
+.darkbtn{
+    cursor: pointer;
+    border-radius:50px;
+    padding: 5px 10px;
+    transition: 1s ease-in-out;
+    z-index: 2;
+  
+    &:hover{
+      background-color: #fff;
+      color: #211919;
+    }
+  
+    &.dark{
+      color: #211919;
+      &:hover{
+        color: #211919;
+      }
+    }
+  }
